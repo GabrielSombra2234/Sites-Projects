@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title>UNES - Página principal</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<img src="Imagens-unes/logo.png">
+		<p align="right"><a href="index.html">Home</a> | <a href="quem-somos.html">Quem somos</a> | <a href="contato.html">Contato</a></p>
+		<img src="Imagens-unes/capa.png" width="100%">
+		<h2>Sobre a univercidade</h2>
+		<p>
+			Lorem <strong>ipsum dolor</strong> sit amet, consectetur adipiscing elit. Aenean vel porttitor ante. Pellentesque fermentum sit amet urna vel sagittis. In nec ipsum at nibh pulvinar tristique eu a dui. Nunc sed pharetra urna. Aliquam lobortis, nunc vel blandit scelerisque, mi lorem finibus ex, mattis tincidunt risus arcu quis tellus. Suspendisse eu elit vel ante vulputate posuere quis quis ex. Donec eleifend mauris id arcu condimentum fringilla. Cras lacinia augue id lectus maximus, rutrum molestie nunc porttitor. Quisque non pulvinar urna. In mattis pharetra felis, ac imperdiet ante vestibulum in. Nullam id quam justo. Aliquam turpis nulla, tincidunt et facilisis vitae, gravida lobortis orci. Aliquam ac ultrices turpis, sed consectetur felis. Sed tincidunt sem leo, quis molestie ex tincidunt quis. Phasellus blandit rhoncus quam, id posuere nisi mattis ut. Pellentesque et massa euismod, iaculis lorem a, iaculis nibh.
+		</p>
+		<p>
+			Suspendisse potenti. Fusce lacinia ex lorem, varius vulputate lacus tempus placerat. Aenean quis magna facilisis, ultricies enim sed, porttitor metus. Pellentesque in accumsan magna, non semper velit. Nulla maximus dictum ultrices. Morbi non massa et nibh viverra mollis non pulvinar lectus. Nulla varius iaculis enim, dapibus iaculis tortor dapibus ut. Mauris vitae hendrerit diam. Curabitur vehicula auctor arcu, eget pretium dui blandit non. Fusce varius metus velit.
+		</p>
+		<br>
+		<h4 align="center"><strong>Todos os direitos reservados</strong></h4>
+	</body>
+</html>

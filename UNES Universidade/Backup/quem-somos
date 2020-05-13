@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title>UNES - Quem somos</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<img src="Imagens-unes/logo.png">
+		<p align="right"><a href="index.html">Home</a> | <a href="quem-somos.html">Quem somos</a> | <a href="contato.html">Contato</a></p><br>
+		<h2>Quem somos</h2>
+		<p>
+			Suspendisse potenti. Fusce lacinia ex lorem, varius vulputate lacus tempus placerat. Aenean quis magna facilisis, ultricies enim sed, porttitor metus. Pellentesque in accumsan magna, non semper velit. Nulla maximus dictum ultrices. Morbi non massa et nibh viverra mollis non pulvinar lectus. Nulla varius iaculis enim, dapibus iaculis tortor dapibus ut. Mauris vitae hendrerit diam. Curabitur vehicula auctor arcu, eget pretium dui blandit non. Fusce varius metus velit.
+		</p><br>
+
+		<h2>5 Motivos para estudar</h2>
+		<ol>
+			<li>Material sempre atualizado</li>
+			<li>Tables em sala de aula</li>
+			<li>Professores renomados</li>
+			<li>Universidade bem avaliada</li>
+			<li>Ótima localização</li>
+		</ol>
+		<hr color="black">
+
+		<h2>Objetivos</h2>
+		<p>
+			Donec dignissim tempor consequat. Sed posuere laoreet mauris a faucibus. Nullam mollis pellentesque lectus in convallis. Proin malesuada venenatis ex a finibus. Mauris tempus elit fringilla neque efficitur, sed iaculis dolor vehicula. Vestibulum orci tortor, blandit eget massa vitae, blandit interdum elit. Aenean at lorem id mauris volutpat rhoncus. Suspendisse finibus sapien elit, a blandit ex varius nec. Ut non nulla a neque faucibus placerat et in eros.
+		</p><br>
+		<p align="center"><strong>Todos os direitos reservados</strong></p>
+
+	</body>
+</html>
