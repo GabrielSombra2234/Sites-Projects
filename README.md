@@ -1,12 +1,11 @@
-# Sites-Projects
-Projetos de site, feitos como exercício do curso de Desenvolvimento Web.
+<h1>Sites-Projects</h1>
+<p>Projetos de site, feitos como exercício do curso de Desenvolvimento Web.</p>
 
-#UNES Universidade:
+<h2>UNES Universidade:</h2>
 <img src="imagens-projeto/projeto-unes.png">
-<a href="#">Teste</a>
 
-#Projéto Anna Bella:
+<h2>Projéto Anna Bella:</h2>
 <img src="imagens-projeto/projeto-anna-bella.png">
 
-#Projéto TecBlog:
+<h2>Projéto TecBlog:</h2>
 <img src="imagens-projeto/projeto-tecblog.png">
